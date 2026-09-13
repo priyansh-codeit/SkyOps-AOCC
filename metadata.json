@@ -1,0 +1,6 @@
+{
+  "name": "SkyOps AOCC - Airport Operations Control Center",
+  "description": "Production-grade live airport operations control center featuring real-time spatial airside radar map, ICAO/IATA gate conflict resolution, interactive flight board, and disruption simulation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
